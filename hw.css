@@ -1,0 +1,36 @@
+body{
+    font-family: 'Playfair Display', serif;
+    font-size: 24px;
+    font-weight: 400;
+    color: #212529;
+    background-image: url("img/jakub-dziubak-XtUd5SiX464-unsplash\ 1.png");
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.loopa{
+    align-self: auto;
+}
+.endl{
+    margin: 150px 223px;
+}
+.inst{
+    margin: 0px 72px;
+}
+.container{
+    margin: 0px 223px;
+}
+.mid{
+    margin: 0px 460px;
+}
+.more{
+    position: absolute;
+    top: 650px; left: 360px;
+    color: aliceblue;
+}
+.line{
+    position: absolute;
+    top: 30px;left: 3px;
+}
